@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class LeastOccurrenceCharacter {
+public class FirstCharacterWithLeastOccurrence{
     public static void main(String[] args) {
         String str = "swiss";
         char result = findLeastOccurringCharacter(str);
