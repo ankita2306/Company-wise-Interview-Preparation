@@ -5,11 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b86824bc-d982-4d24-8491-490c2f32cc83" name="Changes" comment="&quot;first commit&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/itcInfotech/ArrayLeaders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/itcInfotech/Sort012.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IBM/MaxAreaOfLongestDiagonal3000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MakeMyTrip/FirstNonRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MakeMyTrip/PairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MakeMyTrip/ReverseWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MakeMyTrip/SpiralOfMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PayTm/FindIndexInRotatedSoredArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PayTm/UniquePathDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TCS/AddDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TCS/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TCS/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TCS/LengthOfLastWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TCS/MoveZeroesToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TCS/Pallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TCS/ReverseInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TCS/ReverseWordEasy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TCS/ReverseWordMedium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TCS/SortColors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TCS/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel/ChocolateDistributionProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel/FindPairWithSumS1865.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel/MinimumPlatformsRequired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel/ReverseWordsInAString151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel2/FirstandLastPositionofElementInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel2/LeadersInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel2/MaximumSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel2/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel2/NthFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel2/PainterPartitionProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel2/PairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel2/ReverseLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/airtel2/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mostAsked/arrayAndString/AllSubstringsThatArePallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mostAsked/arrayAndString/MaximumSumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mostAsked/arrayAndString/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/PrefixSumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/premium/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/premium/ArrayTransformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/premium/RemoveVowels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/airtel/LeastOccurrenceCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/airtel/FirstCharacterWithLeastOccurrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,41 +86,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AngleBetweenMinuteAndHour.executor": "Run",
-    "Application.CircularPrime.executor": "Run",
-    "Application.CountFrequencies.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.DijstrasAlgoritms.executor": "Run",
-    "Application.FindIndexInRotatedSoredArray.executor": "Run",
-    "Application.LeastOccurrenceCharacter.executor": "Run",
-    "Application.MergeSortedLinkedLists.executor": "Run",
-    "Application.NumberToWords.executor": "Run",
-    "Application.PermuteInOrder.executor": "Run",
-    "Application.Sort01.executor": "Run",
-    "Application.Sort012.executor": "Run",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AngleBetweenMinuteAndHour.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChocolateDistributionProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CircularPrime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountFrequencies.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DijstrasAlgoritms.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindIndexInRotatedSoredArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstNonRepeatingCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstandLastPositionofElementInSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeastOccurrenceCharacter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaxAreaOfLongestDiagonal3000.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumSubArraySum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MergeSortedLinkedLists.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinimumPlatformsRequired.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NthFibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberToWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PainterPartitionProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PairSum.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PermuteInOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrefixSumArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductOfArrayExceptSelf238.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseWordsInAString151.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseWordsInString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sort012.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.practice.ProductOfArrayExceptSelf238.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Ankita/Codes/CompanyWisePrep&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PayTm" />
       <recent name="itcInfotech" />
       <recent name="general" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="itcInfotech.Demo" />
+  <component name="RunManager" selected="Application.FirstNonRepeatingCharacter">
+    <configuration name="FirstNonRepeatingCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MakeMyTrip.FirstNonRepeatingCharacter" />
       <module name="CompanyWisePrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="itcInfotech.*" />
+          <option name="PATTERN" value="MakeMyTrip.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DijstrasAlgoritms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PayTm.DijstrasAlgoritms" />
+    <configuration name="NthFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="airtel2.NthFibonacci" />
       <module name="CompanyWisePrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PayTm.*" />
+          <option name="PATTERN" value="airtel2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeastOccurrenceCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="airtel.LeastOccurrenceCharacter" />
+    <configuration name="PainterPartitionProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="airtel2.PainterPartitionProblem" />
       <module name="CompanyWisePrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="airtel.*" />
+          <option name="PATTERN" value="airtel2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSortedLinkedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="airtel.MergeSortedLinkedLists" />
+    <configuration name="ReverseLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="airtel2.ReverseLL" />
       <module name="CompanyWisePrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="airtel.*" />
+          <option name="PATTERN" value="airtel2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermuteInOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PayTm.PermuteInOrder" />
+    <configuration name="ReverseWordsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MakeMyTrip.ReverseWordsInString" />
       <module name="CompanyWisePrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PayTm.*" />
+          <option name="PATTERN" value="MakeMyTrip.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.MergeSortedLinkedLists" />
-        <item itemvalue="Application.LeastOccurrenceCharacter" />
-        <item itemvalue="Application.PermuteInOrder" />
-        <item itemvalue="Application.DijstrasAlgoritms" />
+        <item itemvalue="Application.FirstNonRepeatingCharacter" />
+        <item itemvalue="Application.ReverseWordsInString" />
+        <item itemvalue="Application.PainterPartitionProblem" />
+        <item itemvalue="Application.ReverseLL" />
+        <item itemvalue="Application.NthFibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735228821763</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;first commit&quot;">
+      <option name="closed" value="true" />
+      <created>1735272515652</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735272515652</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -205,7 +269,87 @@
           <line>2</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/IBM/MaxAreaOfLongestDiagonal3000.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mostAsked/arrayAndString/TwoSum.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mostAsked/arrayAndString/TwoSum.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mostAsked/arrayAndString/TwoSum.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mostAsked/arrayAndString/TwoSum.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mostAsked/arrayAndString/TwoSum.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airtel2/PairSum.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airtel2/PairSum.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airtel2/TwoSum.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airtel2/MaximumSubArraySum.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airtel2/MaximumSubArraySum.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airtel2/NthFibonacci.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airtel2/NthFibonacci.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airtel2/PainterPartitionProblem.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/airtel2/PainterPartitionProblem.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CompanyWisePrep$MaximumSubArraySum.ic" NAME="MaximumSubArraySum Coverage Results" MODIFIED="1736588135758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>airtel2.*</FILTER>
+    </SUITE>
   </component>
 </project>
